@@ -1,7 +1,8 @@
-# game-master
-Tech challenges for Stori Game Master
+# Game-Master
 
-Welcome to the Stori Game Master Challenge!
+## Welcome to the Stori Game Master Challenge!
+
+Hello player here you'll find the directories and instructions of the challenge that you need to complete.
 
 Please follow the instructions to submit your challenge.
 
@@ -15,3 +16,7 @@ Please follow the instructions to submit your challenge.
 - Any assumptions you made 
 - How to run / test
 - Any other info relevant to your project
+
+Choose wisely and remember `The best solution to a problem is usually the easiest one!`
+
+Good luck and let the fun begin! 
