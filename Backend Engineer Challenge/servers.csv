@@ -1,0 +1,4 @@
+location,capacity,name
+region-1,10,server1
+region-2,8,server2
+region-3,10,server3
